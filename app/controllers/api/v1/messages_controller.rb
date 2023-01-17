@@ -3,8 +3,7 @@ class Api::V1::MessagesController < ApplicationController
 
   # GET /messages
   def index
-    @messages = Message.all
-
+    @messages = Message.order(Arel.sql('RANDOM()')).first
     render json: @messages
   end
 
