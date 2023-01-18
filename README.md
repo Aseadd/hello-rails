@@ -99,7 +99,7 @@ After you're finished please remove all the comments and instructions!
 ## 🚀 Live Demo <a name="live-demo"></a>
 
 > Add a link to your Frontend project link.
-<!-- - [Front-End App Link]([https://rails-budget-app.onrender.com/](https://github.com/Aseadd/hello-rails-frontend))  -->
+ [Front-End App Link]([https://rails-budget-app.onrender.com/](https://github.com/Aseadd/hello-rails-frontend))
 
 
 
