@@ -94,7 +94,7 @@ After you're finished please remove all the comments and instructions!
 --->
 
 ## 🚀 Frontend Project Link<a name="live-demo"></a>
-[Front-End App Link]([https://rails-budget-app.onrender.com/](https://github.com/Aseadd/hello-rails-frontend))
+[Front-End App Link](https://github.com/Aseadd/hello-rails-frontend)
 
 <!-- LIVE DEMO -->
 
