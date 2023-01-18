@@ -98,11 +98,9 @@ After you're finished please remove all the comments and instructions!
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-> Add a link to your deployed project.
-<!-- - [Live Demo Link](https://rails-budget-app.onrender.com/)  -->
+> Add a link to your Frontend project link.
+<!-- - [Front-End App Link]([https://rails-budget-app.onrender.com/](https://github.com/Aseadd/hello-rails-frontend))  -->
 
-> Add a link to your video.
-<!-- - [Video Demo Link](https://www.loom.com/share/c1272b1a895e429195edbb7517fc4d4a) -->
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -153,13 +151,6 @@ To run the project, execute the following command:
 
 ```sh
   bin/rails server
-```
-
-```sh
-  cd hello-react
-```
-```sh
-  npm start
 ```
 
 <!--
